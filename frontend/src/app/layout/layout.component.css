@@ -1,0 +1,34 @@
+nz-layout {
+  height: 100vh;
+}
+
+.logo {
+  width: 150px;
+  height: 31px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px 24px 16px 0;
+  float: left;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h2 {
+  color: #fff;
+  margin-top: 8px;
+}
+
+nz-content {
+  padding: 0 50px;
+}
+
+[nz-menu] {
+  line-height: 64px;
+}
+
+
+nz-footer {
+  text-align: center;
+}
+
+  
